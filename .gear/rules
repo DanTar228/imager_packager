@@ -1,2 +1,2 @@
 spec: imager.spec
-tar: .
+tar: . name=imager 
